@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-My name is Xipu Li. Check out my website: https://xipu.li
+My name is Xipu Li. I'm interested in investing and consumer-facing tech.
+
+Check out my [website](https://xipu.li) to learn more.
+
+
 <!--
 **GoodluckH/GoodluckH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
