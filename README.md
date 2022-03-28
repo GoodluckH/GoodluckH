@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Xipu Li. I'm interested in investing and consumer-facing tech.
+My name is Xipu Li. I'm interested in investing and building valuable things.
 
-Check out my [website](https://xipu.li) to learn more.
+Check out my [website](https://xipu.li).
 
 
 <!--
