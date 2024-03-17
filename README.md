@@ -1,8 +1,31 @@
-### Hi there 👋
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
-My name is Xipu Li. I'm interested in investing and building valuable things.
+**i'm addicted to building things that help others**
 
-Check out my [website](https://xipu.li).
+**what i built:**
+
+-  [a tool that helps you focus on one task at a time](https://forget.work)
+-  [routing and pricing algos for flying cars](https://github.com/Arrow-air)
+-  [a discord bot that records and transcribes meetings](https://www.producthunt.com/products/hearhear)
+-  [an app that makes it easy to grab meals with friends](https://apps.apple.com/us/app/mealq/id1594982631)
+
+**what i wrote**
+-  [a sci-fi/mystery book](https://www.amazon.com/Five-Kingdoms-Empires-Fissure-Imperium-ebook/dp/B071CM68D7)
+-  [investment ideas](https://moicandroic.home.blog)
+-  [build in public](https://www.linkedin.com/in/xipuli/recent-activity/all/)
+
+**where i visited**
+- munich, germany
+- beijing, china
+- new york city, usa
+- vermont, usa
+- sf, usa
+- la, usa
+- san diego, usa
+- philadelphia, usa
+- austria
+- czechoslovakia
+- london, uk
 
 
 <!--
