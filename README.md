@@ -4,6 +4,7 @@
 
 **what i built:**
 
+-  [a jobboard that gets the latest SWE jobs postings](https://mochiday.co)
 -  [a tool that helps you focus on one task at a time](https://forget.work)
 -  [routing and pricing algos for flying cars](https://github.com/Arrow-air)
 -  [a discord bot that records and transcribes meetings](https://www.producthunt.com/products/hearhear)
